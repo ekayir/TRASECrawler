@@ -1,0 +1,13 @@
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\TRASECrawler.exe.config
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\TRASECrawler.exe
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\TRASECrawler.pdb
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\obj\Debug\TRASECrawler.csprojAssemblyReference.cache
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\obj\Debug\TRASECrawler.csproj.CoreCompileInputs.cache
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\obj\Debug\TRASECrawler.csproj.CopyComplete
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\obj\Debug\TRASECrawler.exe
+C:\Users\ekbor\source\repos\TRASECrawler\TRASECrawler\obj\Debug\TRASECrawler.pdb
